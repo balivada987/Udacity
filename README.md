@@ -5,10 +5,10 @@ This project is part of the Udacity Azure ML Nanodegree.
 In this project, we build and optimize an Azure ML pipeline using the Python SDK and a provided Scikit-learn model. This model is then compared to an Azure AutoML run.
 
 ## Summary
-**In 1-2 sentences, explain the problem statement: e.g "This dataset contains data about... we seek to predict..."**
+**In 1-2 sentences, explain the problem statement: 
 This dataset contains customers data of bank it contains variables such as age, job,marital	education,default,housing,loan	etc. based on these variables  y has to be predicted . y is a categorical variable therefore a classification algorithm is implemented.
 
-**In 1-2 sentences, explain the solution: e.g. "The best performing model was a ..."**
+**In 1-2 sentences, explain the solution: 
 Logistic Regression model has been used the hyperparameters tuned are 
 	C  = Regurlarization parameter
 	max_iter= maximum iterrations
