@@ -58,4 +58,5 @@ A more complex model can improve the performance of model. Some more feature eng
 Compute_name.delete() method is used to delete the resources 
 
 **Image of cluster marked for deletion**
+Image added in word document
  
